@@ -4,15 +4,13 @@
 
 👋 Hi, I'm Gharbin Bernard!
 
-- 👀 I'm interested in **software development**, **cloud computing**, and **virtual reality**. I enjoy creating innovative solutions that enhance user experiences and streamline processes.
-  
-- 🌱 I'm currently expanding my knowledge in **data management & analysis** , **advanced C++ programming** and **SwiftUI development** to deepen my understanding of efficient algorithms, mobile app design, and data-driven decision-making.
-  
-- 💞️ I'm eager to collaborate on **open-source projects**, especially those focused on **educational technology**, **VR experiences**, and **data engineering**. I believe in the power of community-driven development and am committed to contributing my skills to impactful projects.
+- I'm interested in **data analysis, backend/database development, and data visualization**. I enjoy designing efficient systems that transform raw information into actionable insights.
+
+- I'm currently expanding my knowledge in **SQL & relational databases**, Python for data workflows, and advanced analytics/visualization tools. I’m also strengthening my background in **software engineering** to bridge development with data-driven decision-making.
+
+- I'm eager to collaborate on open-source projects, especially those focused on **data engineering, educational technology, and impact-driven analytics**. I believe in the power of community-driven development and am committed to contributing my skills to meaningful projects.
 
 - 📫 How to reach me: You can connect with me via email at **bg2696@nyu.edu** or through my [LinkedIn](https://linkedin.com/in/bernard-gharbin) profile.
-
-- 😄 Pronouns: **He/Him**
 
 
 ## 🛠️ Technical Skills
