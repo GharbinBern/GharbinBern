@@ -2,7 +2,7 @@
 
 # About
 
-👋 Hi, I'm Gharbin Bernard!
+Hi, I'm Gharbin Bernard!
 
 - I'm interested in **data analysis, backend/database development, and data visualization**. I enjoy designing efficient systems that transform raw information into actionable insights.
 
@@ -10,7 +10,7 @@
 
 - I'm eager to collaborate on open-source projects, especially those focused on **data engineering, educational technology, and impact-driven analytics**. I believe in the power of community-driven development and am committed to contributing my skills to meaningful projects.
 
-- 📫 How to reach me: You can connect with me via email at **bg2696@nyu.edu** or through my [LinkedIn](https://linkedin.com/in/bernard-gharbin) profile.
+- You can connect with me via email at **bg2696@nyu.edu** or through my [LinkedIn](https://linkedin.com/in/bernard-gharbin) profile.
 
 
 ## 🛠️ Technical Skills
