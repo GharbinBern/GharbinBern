@@ -13,7 +13,7 @@ Hi, I'm Gharbin Bernard!
 - You can connect with me via email at **bg2696@nyu.edu** or through my [LinkedIn](https://linkedin.com/in/bernard-gharbin) profile.
 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
