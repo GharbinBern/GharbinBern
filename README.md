@@ -37,8 +37,3 @@ Hi, I'm Gharbin Bernard!
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
 
-**Others:**  
-![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
-
