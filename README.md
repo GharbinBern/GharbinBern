@@ -1,6 +1,6 @@
 ## About Me
 Hi there 👋  
-I'm Gharbin Bernard. I turn data into action and make full-stack projects. ⚡💻  
+I'm Gharbin Bernard. I turn data into insights and make full-stack projects. ⚡💻  
 
 ### I love working with:  
 - Data:
