@@ -1,50 +1,37 @@
-## About Me
-Hi there 👋  
-I'm Gharbin Bernard. I turn data into insights and make full-stack projects. 
+# Bernard Gharbin
 
-### I love working with:  
-- Data:
+**Software Developer & Data Analyst**
 
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-    ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python&logoColor=white)
-    ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+I work across software engineering and data science, building full-stack applications and working with data.
 
-- Full-stack development:
-    
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## Projects
 
-- Frameworks / Stacks:
-  
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-    ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-   
-  
+**[BraFom](https://github.com/GharbinBern/BraFom)**
+Built a reverse-auction marketplace for the Ghanaian market where buyers post jobs with budget ceilings and service providers compete by bidding lower prices. Features sealed bidding to prevent strategic undercutting, a structured job workflow, escrow for secure payments, and a review and rating system to tackle asymmetric information.
+`React` `Node.js` `MongoDB`
 
-    
+**[Car Rental Management System](https://github.com/GharbinBern/Car-Rental-Management-System)**
+Built a full-stack car rental platform with secure JWT authentication and role-based access. Designed an optimized relational schema (3NF+) with constraints, views, and stored procedures, plus interactive admin dashboards for monitoring rentals, maintenance, and revenue.
+`React` `FastAPI` `MySQL` `Tailwind CSS`
 
+**[F1 Analytics](https://github.com/GharbinBern/F1-Analytics)**
+Built a Formula 1 analytics platform for tracking race weekends, comparing driver performance, and analyzing team statistics. Implemented an automated ETL pipeline using FastF1 to fetch, transform, and load session data into SQLite. Features season calendar tracking, driver comparison metrics, race results with grid positions, and pit stop analytics across all teams.
+`React` `FastAPI` `SQLite` `Pandas`
 
-### I’m currently working on:
-- Data-driven dashboards for city and community projects  
-- Full-stack applications with React, Node.js, and Tailwind    
+**[InstaSkill](https://github.com/GharbinBern/InstaSkill)**
+Contributed to a team-built skill-exchange platform where people trade what they know for what they want to learn, owning the auth and chat system.
+`React` `Node.js`
 
-### I’m learning:
-- Advanced Python pipelines, SQL workflows, and scalable architectures  
-- AI integrations for analytics and web applications  
-- Frontend tricks with React, Tailwind, and CSS animations  
+## Skills
 
-### I’m looking for help with:
-- Optimizing data workflows  
-- Machine learning model integrations in interactive dashboards  
-- Collaborating on impact-driven open-source projects  
+- **Languages:** Python, JavaScript, SQL, C++
+- **Frameworks & Tools:** React.js, FastAPI, Node.js / Express, Git / GitHub
+- **Data & Analytics:** Pandas, NumPy, SQLAlchemy, MySQL, SQLite, MongoDB
 
-### Fun fact: 
-- 🏎️ Formula 1 racing fanatic  
+## Off the Clock
+
+Formula 1 obsessive. If a repo of mine has lap times in it, now you know why.
+
+## Reach Me
+
+[Email](mailto:bg2696@nyu.edu) · [LinkedIn](https://linkedin.com/in/bernard-gharbin)
